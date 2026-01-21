@@ -100,6 +100,11 @@ Final Verification
 
 (xxiv) Take screenshots of table structures and outputs for practical record submission.
 
+
+
+<img width="1068" height="748" alt="Screenshot 2026-01-21 220152" src="https://github.com/user-attachments/assets/89088700-fb7a-46bd-b530-3181cbdd96ac" />
+
+
 Learning Outcomes:
 
 Understood how to create database tables with primary key, unique, not null, and check constraints.
@@ -107,7 +112,3 @@ Understood how to create database tables with primary key, unique, not null, and
 Learned to establish relationships between tables using foreign keys to maintain data integrity.
 
 Gained basic knowledge of role creation and privilege management in a database system.
-
-<img width="1068" height="748" alt="Screenshot 2026-01-21 220152" src="https://github.com/user-attachments/assets/89088700-fb7a-46bd-b530-3181cbdd96ac" />
-
-
