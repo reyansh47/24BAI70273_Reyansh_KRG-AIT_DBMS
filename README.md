@@ -1,0 +1,3 @@
+Name: Reyansh Arora
+UID: 24BAI70273
+DBMS LAB EXPERIMENTS
