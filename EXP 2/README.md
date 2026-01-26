@@ -32,7 +32,11 @@ input/output::
 <img width="492" height="250" alt="Screenshot 2026-01-21 221412" src="https://github.com/user-attachments/assets/4232bfef-d3c2-4ed5-ac14-e84ace08ed4d" />
 
 <img width="1099" height="728" alt="Screenshot 2026-01-21 221525" src="https://github.com/user-attachments/assets/7eb1231d-8438-4064-b1e1-3470253eae40" />
+
 <img width="1094" height="725" alt="Screenshot 2026-01-21 221509" src="https://github.com/user-attachments/assets/9859ad53-6f1b-4a59-a1bb-6cd009455c35" />
+<img width="476" height="223" alt="Screenshot 2026-01-26 140406" src="https://github.com/user-attachments/assets/0a5496c4-5b3c-4e5d-ab3d-fc114eecb5ac" />
+
+
 
 learning outcome:
 
