@@ -47,6 +47,7 @@ CREATE TABLE employees (
 ```
 
 **Output:**
+<img width="507" height="163" alt="1" src="https://github.com/user-attachments/assets/7067efe7-e782-4463-b9d3-3b552e91bcc6" />
 
 
 
@@ -61,7 +62,8 @@ START 1;
 **Output:**
 
 
-![Output](Exp10_Images/2.png)
+<img width="472" height="166" alt="2 (3)" src="https://github.com/user-attachments/assets/ea0a256d-d355-44b2-9888-cc8f2c74454c" />
+
 
 
 
@@ -81,7 +83,8 @@ $$ LANGUAGE plpgsql;
 **Output:**
 
 
-![Output](Exp10_Images/3.png)
+<img width="499" height="158" alt="3 (3)" src="https://github.com/user-attachments/assets/8cc77676-01a9-4634-ac50-b470d646be0d" />
+
 
 
 
@@ -96,7 +99,8 @@ EXECUTE FUNCTION auto_emp_id();
 **Output:**
 
 
-![Output](Exp10_Images/4.png)
+<img width="586" height="181" alt="4 (3)" src="https://github.com/user-attachments/assets/d086023d-620d-4ed4-9371-ee3edb64ddc0" />
+
 
 
 
@@ -112,11 +116,12 @@ VALUES ('Bob', 'IT');
 **Output:**
 
 
-![Output](Exp10_Images/5.png)
+<img width="555" height="190" alt="5 (2)" src="https://github.com/user-attachments/assets/4befe491-d4e1-49ff-b132-0a97919abf9e" />
 
 
 
-**5. Input:**
+
+**6. Input:**
 ```sql
 SELECT * FROM employees;
 ```
@@ -124,7 +129,7 @@ SELECT * FROM employees;
 **Output:**
 
 
-![Output](Exp10_Images/6.png)
+<img width="573" height="218" alt="6 (2)" src="https://github.com/user-attachments/assets/bdf17356-d626-4c65-899f-215e57ae0c2b" />
 
 
 ---
